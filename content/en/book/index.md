@@ -1,12 +1,33 @@
 ---
-cms_exclude: true
-header:
-  caption: ""
-  image: ""
-title: Structural Macroeconometrics
-view: 2
----
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
 
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 15
+
+title: Structural Econometrics
+subtitle:
+
+design:
+  columns: "1"
+  background:
+    image: open-book.jpg
+    image_darken: 1.0
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+    
+---
 
 
 
@@ -44,24 +65,28 @@ estimate and test structural macroeconomic models.
 time series econometrics textbook, but its main focus is on econometrics, and not on the mapping
 of economic models into econometric models.
 
-[Title, Table of Contents, and Preface](ch00.pdf)  
-[Ch.1 Introduction](ch01.pdf)  
-[Ch.2 Stochastic Processes](ch02.pdf)  
-[Ch.3 Forecasting](ch03.pdf)  
-[Ch.4 ARMA and Vector Autoregression Representatations](ch04.pdf)  
-[Ch.5 Stochastic Regressors in Linear Models](ch05.pdf)  
-[Ch.6 Estimation of the Long-Run Covariance Matrix](ch06.pdf)  
-[Ch.7 Testing Linear Forecasting Models](ch07.pdf)  
-[Ch.8 Vector Autoregression Techniques](ch08.pdf)  
-[Ch.9 Generalized Method of Moments](ch09.pdf)  
-[Ch.10 Empirical Applications of GMM](ch10.pdf)  
-[Ch.11 Extremum Estimators](ch11.pdf)  
-[Ch.12 Introduction to Bayesian Approach](ch12.pdf)  
-[Ch.13 Unit Root Nonstationary Processes](ch13.pdf)  
-[Ch.14 Cointegrating and Spurious Regressions](ch14.pdf)  
-[Ch.15 Economic Models and Cointegrating Regressions](ch15.pdf)  
-[Ch.16 Vector Autoregressions with Unit Root Nonstationary Processes](ch16.pdf)  
-[Ch.17 Panel and Cross-Sectional Data](ch17.pdf)  
-[Appendix A: Introduction to GAUSS](chapp-a.pdf)  
-[Appendix B: Complex Variables, the Spectrum, and Lag Operator](chapp-b.pdf)  
-[Appendix C: Answers (Restricted Access: Instructors only)](chapp-c-secure.pdf)  
+[Download the entire book](pdf/book2012-all.pdf)
+
+Table of contents
+
+[Title, Table of Contents, and Preface](pdf/ch00.pdf)  
+[Ch.1 Introduction](pdf/ch01.pdf)  
+[Ch.2 Stochastic Processes](pdf/ch02.pdf)  
+[Ch.3 Forecasting](pdf/ch03.pdf)  
+[Ch.4 ARMA and Vector Autoregression Representatations](pdf/ch04.pdf)  
+[Ch.5 Stochastic Regressors in Linear Models](pdf/ch05.pdf)  
+[Ch.6 Estimation of the Long-Run Covariance Matrix](pdf/ch06.pdf)  
+[Ch.7 Testing Linear Forecasting Models](pdf/ch07.pdf)  
+[Ch.8 Vector Autoregression Techniques](pdf/ch08.pdf)  
+[Ch.9 Generalized Method of Moments](pdf/ch09.pdf)  
+[Ch.10 Empirical Applications of GMM](pdf/ch10.pdf)  
+[Ch.11 Extremum Estimators](pdf/ch11.pdf)  
+[Ch.12 Introduction to Bayesian Approach](pdf/ch12.pdf)  
+[Ch.13 Unit Root Nonstationary Processes](pdf/ch13.pdf)  
+[Ch.14 Cointegrating and Spurious Regressions](pdf/ch14.pdf)  
+[Ch.15 Economic Models and Cointegrating Regressions](pdf/ch15.pdf)  
+[Ch.16 Vector Autoregressions with Unit Root Nonstationary Processes](pdf/ch16.pdf)  
+[Ch.17 Panel and Cross-Sectional Data](pdf/ch17.pdf)  
+[Appendix A: Introduction to GAUSS](pdf/chapp-a.pdf)  
+[Appendix B: Complex Variables, the Spectrum, and Lag Operator](pdf/chapp-b.pdf)  
+[Appendix C: Answers (Restricted Access: Instructors only)](pdf/chapp-c-secure.pdf)  
